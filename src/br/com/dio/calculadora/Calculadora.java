@@ -14,7 +14,6 @@ public class Calculadora {
         System.out.println("Digite o segundo valor: ");
         b = scan.nextInt();
 
-        /* ^2 L */
         double soma = soma(a,b);
         double subtrai = subtrai(a,b);
         double divide = divide(a,b);
